@@ -1,1 +1,2 @@
-alert ('Hello world');
+var maVar = 'Heelo world'
+alert (maVar);

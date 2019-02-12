@@ -1,2 +1,2 @@
 var maVar = 'Heelo world'
-alert (maVar);
+alert (maVar;
